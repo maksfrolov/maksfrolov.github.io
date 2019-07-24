@@ -1,1 +1,1 @@
-var o,l=prompt("деление на 2",0),e=l/2;console.log("one"),console.log("string"),console.log(o),console.log(typeof o),console.log(0),console.log("number"),alert(l),console.log(typeof!0),alert(e),console.log(typeof e);
+var o="Hello",l=prompt("умножение на 2",2),e=l*l;console.log(o),console.log("string"),console.log(123),console.log("number"),console.log(!1),console.log(typeof!1),console.log("undefined"),alert(l),console.log(typeof l),alert(e),console.log(typeof y);
