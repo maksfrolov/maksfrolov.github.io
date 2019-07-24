@@ -1,1 +1,1 @@
-var o="Hello",l=prompt("умножение на 2",2),e=l*l;console.log(o),console.log("string"),console.log(123),console.log("number"),console.log(!1),console.log(typeof!1),console.log("undefined"),alert(l),console.log(typeof l),alert(e),console.log(typeof y);
+var o=prompt("умножение на 2",2),l=o*o;console.log("Hello"),console.log(123),console.log(!1),console.log(void 0),alert(o),console.log(typeof o),alert(l),console.log(typeof y);
