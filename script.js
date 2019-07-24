@@ -1,1 +1,1 @@
-var o=prompt("умножение на 2",2),l=o*o;console.log("Hello"),console.log(123),console.log(!1),console.log(void 0),alert(o),console.log(typeof o),alert(l),console.log(typeof y);
+var o,e="Hello",l=" - is it ";console.log(e+l+"string"),console.log(0+l+"number"),console.log(!0+l+typeof!0),console.log(null+l+"object"),console.log(o+l+typeof o);var t=prompt("Число");effect=t*t,alert(t+" * 2 = "+effect);
