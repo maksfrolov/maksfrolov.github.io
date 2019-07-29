@@ -1,1 +1,0 @@
-var o,e="Hello",l=" - is it ";console.log(e+l+"string"),console.log(0+l+"number"),console.log(!0+l+typeof!0),console.log(null+l+"object"),console.log(o+l+typeof o);var t=prompt("Число");effect=t*t,alert(t+" * 2 = "+effect);
